@@ -2,3 +2,10 @@ Laravel: https://blog.hlab.tech/part-1-building-a-blog-application-using-laravel
 	 https://medium.com/@dinyangetoh/how-to-build-a-blog-with-laravel-9f735d1f3116
 	 https://dev.to/ericnanhu/build-a-simple-blog-using-php-and-laravel-beginner-s-guide-25kf
 	 https://laravel-news.com/your-first-laravel-application
+
+Django:
+    https://www.globalbridgesol.com/blog/django-blog-tutorial-step-by-step-beginners-guide-for-django-blog/
+
+    https://www.globalbridgesol.com/blog/django-blog-tutorial-step-by-step-beginners-guide-for-django-blog/
+
+    https://djangocentral.com/django-introduction/
